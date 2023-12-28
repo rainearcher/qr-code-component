@@ -4,6 +4,7 @@ body {
     text-align: center;
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
+    color: hsl(220, 15%, 55%);
 }
 
 .qrcode {
@@ -13,8 +14,8 @@ body {
     transform: translate(-50%, -50%);
     margin: auto;
     background-color: hsl(0, 0%, 100%);
-    width: 325px;
-    height: 500px;
+    width: 290px;
+    height: 475px;
     border-radius: 20px;
     padding: 15px;
 }
@@ -38,7 +39,6 @@ h3 {
 p {
     font-weight: 400;
     font-size: 15px;
-    color: hsl(220, 15%, 55%);
 }
 
 .attribution { 
